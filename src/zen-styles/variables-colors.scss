@@ -1,0 +1,13 @@
+@import "./colors";
+@import "./variables";
+
+$color-primary: $color-blue-700;
+$color-primary-hover: $color-blue-800;
+$color-primary-active: $color-blue-900;
+
+$color-focused-border: $color-blue-300;
+$color-disabled-bg: $color-gray-100;
+$color-disabled-text: $color-white;
+$color-disabled-border: $color-white;
+
+$color-secondary-border: $color-gray-300;
